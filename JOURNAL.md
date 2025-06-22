@@ -1,7 +1,7 @@
 ---
 title: "Goli ''The Bullet''"
 author: "Ayush Jaiswal"
-description: "An ant weight battlebot, with a vertical spinner weapon"
+description: "An ant weight battlebot, with a horizontal spinner weapon"
 created_at: "2025-06-19"
 ---
 
