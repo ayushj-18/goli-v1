@@ -21,9 +21,14 @@ Researched and started some CAD. Also drew out a basic 2D view from the top & ha
 
 ## Day 2: June 22, 2025
 
-### Time Spent: 1h+4h
-Researched a bit more and did some CAD. Can't decide between Scalar horizontal weapon or the Viper horizontal weapon. I would have to research more about this. <br> 
+### Time Spent: 1h
+Researched a bit more and did some CAD. Can't decide between Scalar horizontal weapon or the Viper horizontal weapon. I would have to research more about this.
+![Day 2 pic 1](https://github.com/user-attachments/assets/59371b53-4ee0-43b6-97b6-88b14689f255)
+
+## Day 3: June 23, 2025
+
+### Time Spent: 4h
 I would be sticking to the Scalar horizontal weapon, I made a lot of changes in CAD. But now I am facing a problem, My weapon motor is way too big, I definetly might need to get a completely different one, (the bore shaft is too big + the weapon blade looks way to close to the motor).
-![Day 2](https://github.com/user-attachments/assets/d2431689-6921-4c5f-8d1f-7d337ed4d636)
+![Day 3 pic 1](https://github.com/user-attachments/assets/d2431689-6921-4c5f-8d1f-7d337ed4d636)
 
 
