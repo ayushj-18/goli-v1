@@ -31,4 +31,13 @@ Researched a bit more and did some CAD. Can't decide between Scalar horizontal w
 I would be sticking to the Scalar horizontal weapon, I made a lot of changes in CAD. But now I am facing a problem, My weapon motor is way too big, I definetly might need to get a completely different one, (the bore shaft is too big + the weapon blade looks way to close to the motor).
 ![Day 3 pic 1](https://github.com/user-attachments/assets/d2431689-6921-4c5f-8d1f-7d337ed4d636)
 
+## Day 4: June 24, 2025
+
+### Time Spent: 2h
+I figured out the problem I was facing with my CAD, and infact I realised there was another big problem I didn't look into for really long.
+![Day 4 pic 1](https://github.com/user-attachments/assets/f899f29c-f766-4d26-9ac5-1f3364d5370d) <br> 
+After looking at the Scalar Horizontal Spinner for Inspiration, I realised what was wrong and why my project wasn't lining up like I wanted it to. My wheels are too high, resultng in my weapon motor not being able to fit in. I feel like this project is coming to an end (atleast the design part),
+![image](https://github.com/user-attachments/assets/ae7475ad-8dbe-4365-aac2-ed359cf1933f) <br>
+I really need to focus on this tomorrow for a long time and finish the design compeletly. I would also need to spend a hot hour doing the schematic and BOM so that I don't leave anything out.
+
 
