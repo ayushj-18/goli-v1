@@ -43,7 +43,8 @@ I really need to focus on this tomorrow for a long time and finish the design co
 ## Day 5: July 2, 2025
 
 ### Time Spent: 6h
-I was really demotivated these past days to work on this project, because I just felt like I couldn't make this. I scrapped so many designs and most of my research time went to waste. There was so much other stuff I was working on, and I completely forgot to work on this. Thanks so much to @Dylan and @Luke Williams on Slack for motivating me to build this and speeding up my research process. I was able to craft a BOM & make a wiring schematic.
+I was really demotivated these past days to work on this project, because I just felt like I couldn't make this. I scrapped so many designs and most of my research time went to waste. There was so much other stuff I was working on, and I completely forgot to work on this. Thanks so much to @Dylan and @Luke Williams on Slack for motivating me to build this and speeding up my research process. I was able to craft a BOM & make a wiring schematic. <br>
 ![Day 5 pic 1](https://github.com/user-attachments/assets/a296ad94-adf8-4c89-a57c-34ca83b4d569) <br>
-I now have to completely redo my CAD and focus on new changes while also making my robot capable of fighting and future upgrades
+
+I now have to completely redo my CAD and focus on new changes while also making my robot capable of fighting and future upgrades. I figured to make my robot a wedge bot (control focused) instead of a horizontal spinner for the sake of budget and simplicity.
 
