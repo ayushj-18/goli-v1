@@ -1,7 +1,7 @@
 ---
 title: "Goli ''The Bullet''"
 author: "Ayush Jaiswal"
-description: "An ant weight battlebot, with a horizontal spinner weapon"
+description: "An ant weight battlebot, with a wedge type weapon"
 created_at: "2025-06-19"
 ---
 
@@ -37,7 +37,13 @@ I would be sticking to the Scalar horizontal weapon, I made a lot of changes in 
 I figured out the problem I was facing with my CAD, and infact I realised there was another big problem I didn't look into for really long.
 ![Day 4 pic 1](https://github.com/user-attachments/assets/f899f29c-f766-4d26-9ac5-1f3364d5370d) <br> 
 After looking at the Scalar Horizontal Spinner for Inspiration, I realised what was wrong and why my project wasn't lining up like I wanted it to. My wheels are too high, resultng in my weapon motor not being able to fit in. I feel like this project is coming to an end (atleast the design part),
-![image](https://github.com/user-attachments/assets/ae7475ad-8dbe-4365-aac2-ed359cf1933f) <br>
+![Day 4 pic 2](https://github.com/user-attachments/assets/ae7475ad-8dbe-4365-aac2-ed359cf1933f) <br>
 I really need to focus on this tomorrow for a long time and finish the design compeletly. I would also need to spend a hot hour doing the schematic and BOM so that I don't leave anything out.
 
+## Day 5: July 2, 2025
+
+### Time Spent: 6h
+I was really demotivated these past days to work on this project, because I just felt like I couldn't make this. I scrapped so many designs and most of my research time went to waste. There was so much other stuff I was working on, and I completely forgot to work on this. Thanks so much to @Dylan and @Luke Williams on Slack for motivating me to build this and speeding up my research process. I was able to craft a BOM & make a wiring schematic.
+![Day 5 pic 1](https://github.com/user-attachments/assets/a296ad94-adf8-4c89-a57c-34ca83b4d569) <br>
+I now have to completely redo my CAD and focus on new changes while also making my robot capable of fighting and future upgrades
 
