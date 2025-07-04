@@ -48,3 +48,12 @@ I was really demotivated these past days to work on this project, because I just
 
 I now have to completely redo my CAD and focus on new changes while also making my robot capable of fighting and future upgrades. I figured to make my robot a wedge bot (control focused) instead of a horizontal spinner for the sake of budget and simplicity.
 
+## Day 6: July 3, 2025
+
+### Time Spent: 3h
+Started a fresh CAD document and I managed to get done my chassis. <br>
+![Day 6 pic 1](https://github.com/user-attachments/assets/35538ba0-683c-411a-80b9-4f40a53cfbb5) <br>
+
+Now I have to make the weapon, which will be 3d printed.
+
+
