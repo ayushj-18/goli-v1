@@ -19,5 +19,8 @@ This is a 1lb PLANT (Plastic Antweight) Combat Robot. The Weapon type is a Wedge
 
 - PLA Planning to use- PLA+ Black & Orange Color
 
+### BOM
+![image](https://github.com/user-attachments/assets/66843fc0-5213-4546-9974-41da4b0f973f)
+
 
 

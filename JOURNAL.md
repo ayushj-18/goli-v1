@@ -56,4 +56,28 @@ Started a fresh CAD document and I managed to get done my chassis. <br>
 
 Now I have to make the weapon, which will be 3d printed.
 
+## Day 7: July 4, 2025
+
+### Time Spent: 2h 
+Grinded out CAD Today, came up with this design. 
+
+![Screenshot 2025-07-04 164428](https://github.com/user-attachments/assets/d20e96d6-2ead-4bd0-bbbe-9b6b99af13d0) <br>
+
+Wheels is really big + CAD isn't polished
+
+## Day 8: July 5, 2025
+
+### Time Spent: 2h
+Polished my CAD, really proud of this design. 
+![Screenshot 2025-07-05 115726](https://github.com/user-attachments/assets/9ec766ea-33c3-409d-a94b-3132148d66bf)
+
+<br> Dylan told me to add wheel bumpers, which I overlooked. So I added that!
+![Screenshot 2025-07-05 132623](https://github.com/user-attachments/assets/8c7ad36a-e948-43cf-bbc7-3ea06ad99cd8)
+
+## Day 9: July 6, 2025
+### Time Spent: 2h
+
+Finalised BOM & Made STL Files. Had some issues pushing it into Git. Finally done.
+
+
 
